@@ -1,16 +1,16 @@
 # projeto-heranca-java
-# ⚔️ Exercício: Sistema de RPG em Java
+#  Exercício: Sistema de RPG em Java
 
 Projeto acadêmico para demonstrar conceitos de **Herança** e **Polimorfismo** em Java 17+, utilizando o fluxo de trabalho **GitHub Flow**.
 
 ---
 
-## 👥 Integrantes do Trio
+##  Integrante
 * **Césa Augusto** - RA: `4231921453`
 
 ---
 
-## 📝 Descrição do Tema
+## Descrição do Tema
 O sistema modela uma mecânica básica de **RPG (Role Playing Game)**. A hierarquia foi construída para gerenciar diferentes tipos de heróis em um jogo. 
 
 ### Detalhes da Hierarquia:
@@ -22,7 +22,7 @@ No `Main.java`, utilizamos o **Polimorfismo** para iterar sobre uma lista de per
 
 ---
 
-## 🏗️ Estrutura de Pastas
+##  Estrutura de Pastas
 ```text
 projeto-heranca/
 ├─ README.md
